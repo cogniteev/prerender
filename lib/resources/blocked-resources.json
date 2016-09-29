@@ -25,5 +25,8 @@
 	"hn.inspectlet.com",
 	"tpc.googlesyndication.com",
 	"partner.googleadservices.com",
-	"\\.woff"
+	"\\.woff",
+	"js.intercomcdn.com",
+	"widget.intercom.io",
+	"connect.facebook.net"
 ]
